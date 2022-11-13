@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SeminariumFirstApp/static/css/main.073c9b0a.css",
+    "main.js": "/SeminariumFirstApp/static/js/main.65390ba3.js",
+    "index.html": "/SeminariumFirstApp/index.html",
+    "main.073c9b0a.css.map": "/SeminariumFirstApp/static/css/main.073c9b0a.css.map",
+    "main.65390ba3.js.map": "/SeminariumFirstApp/static/js/main.65390ba3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.65390ba3.js"
+  ]
+}
